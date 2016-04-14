@@ -1,2 +1,6 @@
-# MEAN-Blog-
-Blog(CMS) made using the MEAN stack. Help from masteringmean 
+# MEAN-Blog-CMS
+Blog(CMS) made using the MEAN stack.
+
+Clone the repository; then execute-
+
+npm start
